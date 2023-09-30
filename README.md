@@ -1,4 +1,4 @@
-# Child-Monitoring-app
+# Child Monitoring Application
 
 ## Team Members :
 1. **_Arjun Sekar_**
