@@ -16,7 +16,7 @@
 
 ## How It Works
 
-<div align="justify"> The app utilizes Simulink to create a effective system for Android devices. It continuously monitors the child's location, speed, and movements. When predefined conditions (crossing boundaries, overspeeding, or falls) are met, instant alerts are sent to the parent's phone. The SOS messaging feature enables children to seek help specifically in case of falls, fostering a safer environment for young cyclists.</div>
+<div align="justify"> The app utilizes Simulink to create an effective system for Android devices. It continuously monitors the child's location, speed, and movements. When predefined conditions (crossing boundaries, overspeeding, or falls) are met, instant alerts are sent to the parent's phone. The SOS messaging feature enables children to seek help specifically in case of falls, fostering a safer environment for young cyclists. </div>
 
 ## Team Members
 1. **_Arjun Sekar_**
