@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Child Safety App is a project developed as part of our Electrical Engineering course, *Signals, Systems, and Random Processes*. It addresses a significant concern among parents: ensuring the safety of their children while riding bicycles. Powered by Simulink for Android devices, this app provides real-time monitoring and proactive alerts, enhancing child safety and parental confidence.
+<div align="justify"> The Child Safety App is a project developed as part of our Electrical Engineering course, *Signals, Systems, and Random Processes*. It addresses a significant concern among parents: ensuring the safety of their children while riding bicycles. Powered by Simulink for Android devices, this app provides real-time monitoring and proactive alerts, enhancing child safety and parental confidence. </div>
 
 ## Key Features
 
@@ -16,9 +16,9 @@ Child Safety App is a project developed as part of our Electrical Engineering co
 
 ## How It Works
 
-The app utilizes Simulink to create a robust system for Android devices. It continuously monitors the child's location, speed, and movements. When predefined conditions (crossing boundaries, overspeeding, or falls) are met, instant alerts are sent to the parent's phone. The SOS messaging feature enables children to seek help specifically in case of falls, fostering a safer environment for young cyclists.
+<div align="justify"> The app utilizes Simulink to create a effective system for Android devices. It continuously monitors the child's location, speed, and movements. When predefined conditions (crossing boundaries, overspeeding, or falls) are met, instant alerts are sent to the parent's phone. The SOS messaging feature enables children to seek help specifically in case of falls, fostering a safer environment for young cyclists.</div>
 
 ## Team Members
 1. **_Arjun Sekar_**
 2. **_Sriram Srinivasan_**
-3. **_Tamizhanban AG_**
+3. **_Tamizhanban A G_**
